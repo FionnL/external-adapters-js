@@ -2,5 +2,20 @@
  "requests": [{
   "from": "ETH",
   "to": "USD"
- }]
+ },
+  {
+   "from": "ETH",
+   "to": "USD",
+   "endpoint": "price"
+  },
+  {
+   "from": "ETH",
+   "to": "USD",
+   "endpoint": "price-ws"
+  },
+  {
+   "from": "ETH",
+   "to": "USD",
+   "endpoint": "crypto"
+  }]
 }
