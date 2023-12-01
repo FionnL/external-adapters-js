@@ -111,6 +111,9 @@
       "path": "./non-deployable/token-allocation"
     },
     {
+      "path": "./non-deployable/token-allocation-test"
+    },
+    {
       "path": "./scripts"
     },
     {
