@@ -2200,7 +2200,6 @@ __metadata:
     "@chainlink/ea-bootstrap": "workspace:*"
     "@chainlink/ea-test-helpers": "workspace:*"
     "@chainlink/token-allocation-adapter": "workspace:*"
-    "@chainlink/token-allocation-test-adapter": "workspace:*"
     "@types/jest": 27.5.2
     "@types/node": 16.11.51
     ethers: 5.4.7
